@@ -1,5 +1,5 @@
 ![logo](https://github.com/Tashfeen-Chohan/Tashfeen-Chohan/blob/main/Banner.png)
-<h2 align="center">Final Year CS Student: Proficient MERN Stack Developer !</h2><br>
+<h2 align="center">Software Engineer: Proficient MERN Stack Developer !</h2><br>
 
 <img align="right" alt="coding" width=350 src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952fn58ihmgiqdi4cqqhv0oqofknsqwnla9ei403498&ep=v1_gifs_search&rid=giphy.gif&ct=g"><br>
 
